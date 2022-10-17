@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myike-delinker
-- 👀 I’m interested in jogos digitais
-- 🌱 I’m currently learning a criar jogos digitais
-- 💞️ I’m looking to collaborate on tudo que me ajude evoluir
+- 👀 I’m interested in digital games
+- 🌱 I’m currently learning creating digital games
+- 💞️ I’m looking to collaborate on anything that helps me evolve in this branch
 - 📫 How to reach me gamersupremo53@gmail.com
 
 <!---
